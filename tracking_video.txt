@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=PtQiiknWUcI
-5:47:44 > work on mobile recent activities
+5:53:07 > build API
 
 Stopper:   Reverse for 'user-profile' with arguments '('',)' not found. 1 pattern(s) tried: ['profile/(?P<pk>[^/]+)/\\Z']
 <a href="{% url 'user-profile' room.host.id %}">@{{room.host.username}}</a>
